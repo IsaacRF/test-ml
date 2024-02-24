@@ -1,2 +1,2 @@
 # test-ml
- A project  to test basic AI ML
+ A project to test basic AI ML
